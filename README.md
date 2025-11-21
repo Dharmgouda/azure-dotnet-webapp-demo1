@@ -28,7 +28,7 @@ https://www.dgouda.com
 
 | Resource | Type | Description |
 |----------|------|-------------|
-| ASPplandemo | App Service Plan | Basic (B1) hosting plan |
+| ASPplandemo | App Service Plan | Premium(Pov3) hosting plan |
 | newwebapp477488 | App Service | Production web application |
 | staging | Deployment Slot | Staging/testing environment |
 | dgouda.com | App Service Domain | Purchased custom domain |
